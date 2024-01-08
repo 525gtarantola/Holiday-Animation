@@ -1,5 +1,5 @@
 :root {
-    --color-bg: radial-gradient( circle farthest-corner at 50.4% 50.5%,  rgba(57,181,51,1) 0%,rgba(35,91,32,1)90% );
+    --color-bg: radial-gradient( circle farthest-corner at 50.4% 50.5%,  rgb(255, 0, 0)0%,rgb(129, 1, 1)90% );
     --color-tree-back:  linear-gradient( to left , rgb(1, 59, 1) , rgb(0, 175, 0) , rgb(1, 59, 1) );
     --color-tree-front: linear-gradient( to left ,rgb(0, 175, 0) , rgb(24, 24, 23) ,rgb(0, 175, 0) );
     --color-star-dark: rgb(255, 166, 0);
